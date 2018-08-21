@@ -1,5 +1,5 @@
 # plantuml - generate UML diagrams from files and view them in Eclipse
-
+img:https://www.travis-ci.org/251879447/plantuml.svg?branch=master
 The plantuml library implements a DSL and renderer for many UML diagrams (class, sequence, objects, states, activities, ...).
 See http://plantuml.com for more info about the DSL and renderer.
 
